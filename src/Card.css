@@ -1,0 +1,14 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-left: 250px;
+}
+.column {
+    flex: 1 0 33.33%;
+    padding: 30px;
+
+}
+.starLine {
+    display: flex;
+}

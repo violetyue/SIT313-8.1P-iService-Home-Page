@@ -1,0 +1,19 @@
+.footerSign {
+    display: flex;
+    flex-grow: 2;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: gainsboro;
+    margin: 5px;
+}
+.footerConnect {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: gainsboro;
+    margin: 5px;
+}
+.footerPart {
+    display: flex;
+}
